@@ -1,0 +1,31 @@
+
+/* General --------------------
+-------------------------------
+ */
+
+body{
+    margin: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+/* Estilos Tipográficos -------------------*/
+
+.ejemplo{
+    font-size: 30px;
+}
+
+
+p.ejemplo{
+    font-size: 12px;
+}
+
+
+/* Cabecera ------------------------ */
+
+.navegacion{
+    /* estilos */
+}
